@@ -1,0 +1,63 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Сотрудники</title>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"> </script>
+    <script type="text/javascript" src="./script.js"> </script>
+</head>
+<body>
+<div>
+    <a href="/Index.html">Главная</a>
+    <a href="/Orders.html">Все заказы</a>
+    <a href="/NewOrder.html">Новый заказ</a>
+    <a href="/NewJob.html">Выполнить работу</a>
+</div>
+
+<!--Основной контент страницы-->
+
+<div style="width: 40rem">
+    <fieldset>
+        <legend>Сотрудники</legend>
+        <table border="1" style="width: 100%">
+            <tr>
+                <th>ФИО Заказчика</th>
+                <th>ФИО Исполнителя</th>
+                <th>Номер телефона</th>
+                <th>Описание работы</th>
+            </tr>
+        </table>
+    </fieldset>
+</div>
+
+
+
+</body>
+<script type="text/javascript">
+    var url = "http://localhost:5077";
+    
+    $(".delete").live('click', function(event) {
+        PostData("http://localhost:5077/" + $(this).parent().parent().attr("index") + "/remove", {})
+            .then(_ => load());
+    });
+
+    async function load() {
+        let response = await GetData(url);
+        $(".rowData").remove();
+        for(let i = 0; i < response.length; i++) {
+            $("table").append(makeRow(response[i], i));
+        }
+    } 
+
+    function makeRow(item) {
+        var customer = $("<td>").text(item.customer);
+        var executor = $("<td>").text(item.executor);
+        var phone = $("<td>").text(item.phone);
+        var job = $("<td>").text(item.job);
+        var remove = $("<td>").append($("<button class='delete'>X</button>"));
+        return $("<tr class='rowData' index=" + item.id + ">").append(customer).append(executor).append(phone).append(job).append(remove);
+    }
+
+    load();
+</script>
+</html>

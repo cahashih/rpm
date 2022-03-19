@@ -1,0 +1,78 @@
+\\192.168.22.12\share\C#\Новая папка\Example.StaticFiles-master\3. Example.StaticFiles-master\Example.StaticFiles\bin\Debug\net6.0\Example.StaticFiles.staticwebassets.runtime.json
+\\192.168.22.12\share\C#\Новая папка\Example.StaticFiles-master\3. Example.StaticFiles-master\Example.StaticFiles\bin\Debug\net6.0\Example.StaticFiles.exe
+\\192.168.22.12\share\C#\Новая папка\Example.StaticFiles-master\3. Example.StaticFiles-master\Example.StaticFiles\bin\Debug\net6.0\Example.StaticFiles.deps.json
+\\192.168.22.12\share\C#\Новая папка\Example.StaticFiles-master\3. Example.StaticFiles-master\Example.StaticFiles\bin\Debug\net6.0\Example.StaticFiles.runtimeconfig.json
+\\192.168.22.12\share\C#\Новая папка\Example.StaticFiles-master\3. Example.StaticFiles-master\Example.StaticFiles\bin\Debug\net6.0\Example.StaticFiles.dll
+\\192.168.22.12\share\C#\Новая папка\Example.StaticFiles-master\3. Example.StaticFiles-master\Example.StaticFiles\bin\Debug\net6.0\ref\Example.StaticFiles.dll
+\\192.168.22.12\share\C#\Новая папка\Example.StaticFiles-master\3. Example.StaticFiles-master\Example.StaticFiles\bin\Debug\net6.0\Example.StaticFiles.pdb
+\\192.168.22.12\share\C#\Новая папка\Example.StaticFiles-master\3. Example.StaticFiles-master\Example.StaticFiles\bin\Debug\net6.0\Microsoft.OpenApi.dll
+\\192.168.22.12\share\C#\Новая папка\Example.StaticFiles-master\3. Example.StaticFiles-master\Example.StaticFiles\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+\\192.168.22.12\share\C#\Новая папка\Example.StaticFiles-master\3. Example.StaticFiles-master\Example.StaticFiles\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+\\192.168.22.12\share\C#\Новая папка\Example.StaticFiles-master\3. Example.StaticFiles-master\Example.StaticFiles\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+\\192.168.22.12\share\C#\Новая папка\Example.StaticFiles-master\3. Example.StaticFiles-master\Example.StaticFiles\obj\Debug\net6.0\Example.StaticFiles.csproj.AssemblyReference.cache
+\\192.168.22.12\share\C#\Новая папка\Example.StaticFiles-master\3. Example.StaticFiles-master\Example.StaticFiles\obj\Debug\net6.0\Example.StaticFiles.GeneratedMSBuildEditorConfig.editorconfig
+\\192.168.22.12\share\C#\Новая папка\Example.StaticFiles-master\3. Example.StaticFiles-master\Example.StaticFiles\obj\Debug\net6.0\Example.StaticFiles.AssemblyInfoInputs.cache
+\\192.168.22.12\share\C#\Новая папка\Example.StaticFiles-master\3. Example.StaticFiles-master\Example.StaticFiles\obj\Debug\net6.0\Example.StaticFiles.AssemblyInfo.cs
+\\192.168.22.12\share\C#\Новая папка\Example.StaticFiles-master\3. Example.StaticFiles-master\Example.StaticFiles\obj\Debug\net6.0\Example.StaticFiles.csproj.CoreCompileInputs.cache
+\\192.168.22.12\share\C#\Новая папка\Example.StaticFiles-master\3. Example.StaticFiles-master\Example.StaticFiles\obj\Debug\net6.0\Example.StaticFiles.MvcApplicationPartsAssemblyInfo.cs
+\\192.168.22.12\share\C#\Новая папка\Example.StaticFiles-master\3. Example.StaticFiles-master\Example.StaticFiles\obj\Debug\net6.0\Example.StaticFiles.MvcApplicationPartsAssemblyInfo.cache
+\\192.168.22.12\share\C#\Новая папка\Example.StaticFiles-master\3. Example.StaticFiles-master\Example.StaticFiles\obj\Debug\net6.0\staticwebassets.build.json
+\\192.168.22.12\share\C#\Новая папка\Example.StaticFiles-master\3. Example.StaticFiles-master\Example.StaticFiles\obj\Debug\net6.0\staticwebassets.development.json
+\\192.168.22.12\share\C#\Новая папка\Example.StaticFiles-master\3. Example.StaticFiles-master\Example.StaticFiles\obj\Debug\net6.0\scopedcss\bundle\Example.StaticFiles.styles.css
+\\192.168.22.12\share\C#\Новая папка\Example.StaticFiles-master\3. Example.StaticFiles-master\Example.StaticFiles\obj\Debug\net6.0\Example.StaticFiles.csproj.CopyComplete
+\\192.168.22.12\share\C#\Новая папка\Example.StaticFiles-master\3. Example.StaticFiles-master\Example.StaticFiles\obj\Debug\net6.0\Example.StaticFiles.dll
+\\192.168.22.12\share\C#\Новая папка\Example.StaticFiles-master\3. Example.StaticFiles-master\Example.StaticFiles\obj\Debug\net6.0\ref\Example.StaticFiles.dll
+\\192.168.22.12\share\C#\Новая папка\Example.StaticFiles-master\3. Example.StaticFiles-master\Example.StaticFiles\obj\Debug\net6.0\Example.StaticFiles.pdb
+\\192.168.22.12\share\C#\Новая папка\Example.StaticFiles-master\3. Example.StaticFiles-master\Example.StaticFiles\obj\Debug\net6.0\Example.StaticFiles.genruntimeconfig.cache
+C:\Users\User10\Desktop\3. Example.StaticFiles-master\Example.StaticFiles\bin\Debug\net6.0\Example.StaticFiles.staticwebassets.runtime.json
+C:\Users\User10\Desktop\3. Example.StaticFiles-master\Example.StaticFiles\bin\Debug\net6.0\Example.StaticFiles.exe
+C:\Users\User10\Desktop\3. Example.StaticFiles-master\Example.StaticFiles\bin\Debug\net6.0\Example.StaticFiles.deps.json
+C:\Users\User10\Desktop\3. Example.StaticFiles-master\Example.StaticFiles\bin\Debug\net6.0\Example.StaticFiles.runtimeconfig.json
+C:\Users\User10\Desktop\3. Example.StaticFiles-master\Example.StaticFiles\bin\Debug\net6.0\Example.StaticFiles.dll
+C:\Users\User10\Desktop\3. Example.StaticFiles-master\Example.StaticFiles\bin\Debug\net6.0\ref\Example.StaticFiles.dll
+C:\Users\User10\Desktop\3. Example.StaticFiles-master\Example.StaticFiles\bin\Debug\net6.0\Example.StaticFiles.pdb
+C:\Users\User10\Desktop\3. Example.StaticFiles-master\Example.StaticFiles\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\User10\Desktop\3. Example.StaticFiles-master\Example.StaticFiles\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User10\Desktop\3. Example.StaticFiles-master\Example.StaticFiles\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User10\Desktop\3. Example.StaticFiles-master\Example.StaticFiles\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User10\Desktop\3. Example.StaticFiles-master\Example.StaticFiles\obj\Debug\net6.0\Example.StaticFiles.csproj.AssemblyReference.cache
+C:\Users\User10\Desktop\3. Example.StaticFiles-master\Example.StaticFiles\obj\Debug\net6.0\Example.StaticFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User10\Desktop\3. Example.StaticFiles-master\Example.StaticFiles\obj\Debug\net6.0\Example.StaticFiles.AssemblyInfoInputs.cache
+C:\Users\User10\Desktop\3. Example.StaticFiles-master\Example.StaticFiles\obj\Debug\net6.0\Example.StaticFiles.AssemblyInfo.cs
+C:\Users\User10\Desktop\3. Example.StaticFiles-master\Example.StaticFiles\obj\Debug\net6.0\Example.StaticFiles.csproj.CoreCompileInputs.cache
+C:\Users\User10\Desktop\3. Example.StaticFiles-master\Example.StaticFiles\obj\Debug\net6.0\Example.StaticFiles.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User10\Desktop\3. Example.StaticFiles-master\Example.StaticFiles\obj\Debug\net6.0\Example.StaticFiles.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User10\Desktop\3. Example.StaticFiles-master\Example.StaticFiles\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User10\Desktop\3. Example.StaticFiles-master\Example.StaticFiles\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User10\Desktop\3. Example.StaticFiles-master\Example.StaticFiles\obj\Debug\net6.0\scopedcss\bundle\Example.StaticFiles.styles.css
+C:\Users\User10\Desktop\3. Example.StaticFiles-master\Example.StaticFiles\obj\Debug\net6.0\Example.StaticFiles.csproj.CopyComplete
+C:\Users\User10\Desktop\3. Example.StaticFiles-master\Example.StaticFiles\obj\Debug\net6.0\Example.StaticFiles.dll
+C:\Users\User10\Desktop\3. Example.StaticFiles-master\Example.StaticFiles\obj\Debug\net6.0\ref\Example.StaticFiles.dll
+C:\Users\User10\Desktop\3. Example.StaticFiles-master\Example.StaticFiles\obj\Debug\net6.0\Example.StaticFiles.pdb
+C:\Users\User10\Desktop\3. Example.StaticFiles-master\Example.StaticFiles\obj\Debug\net6.0\Example.StaticFiles.genruntimeconfig.cache
+C:\Users\cahas\OneDrive\Рабочий стол\3. Example.StaticFiles-master\Example.StaticFiles\bin\Debug\net6.0\Example.StaticFiles.staticwebassets.runtime.json
+C:\Users\cahas\OneDrive\Рабочий стол\3. Example.StaticFiles-master\Example.StaticFiles\bin\Debug\net6.0\Example.StaticFiles.exe
+C:\Users\cahas\OneDrive\Рабочий стол\3. Example.StaticFiles-master\Example.StaticFiles\bin\Debug\net6.0\Example.StaticFiles.deps.json
+C:\Users\cahas\OneDrive\Рабочий стол\3. Example.StaticFiles-master\Example.StaticFiles\bin\Debug\net6.0\Example.StaticFiles.runtimeconfig.json
+C:\Users\cahas\OneDrive\Рабочий стол\3. Example.StaticFiles-master\Example.StaticFiles\bin\Debug\net6.0\Example.StaticFiles.dll
+C:\Users\cahas\OneDrive\Рабочий стол\3. Example.StaticFiles-master\Example.StaticFiles\bin\Debug\net6.0\Example.StaticFiles.pdb
+C:\Users\cahas\OneDrive\Рабочий стол\3. Example.StaticFiles-master\Example.StaticFiles\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\cahas\OneDrive\Рабочий стол\3. Example.StaticFiles-master\Example.StaticFiles\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\cahas\OneDrive\Рабочий стол\3. Example.StaticFiles-master\Example.StaticFiles\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\cahas\OneDrive\Рабочий стол\3. Example.StaticFiles-master\Example.StaticFiles\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\cahas\OneDrive\Рабочий стол\3. Example.StaticFiles-master\Example.StaticFiles\obj\Debug\net6.0\Example.StaticFiles.csproj.AssemblyReference.cache
+C:\Users\cahas\OneDrive\Рабочий стол\3. Example.StaticFiles-master\Example.StaticFiles\obj\Debug\net6.0\Example.StaticFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cahas\OneDrive\Рабочий стол\3. Example.StaticFiles-master\Example.StaticFiles\obj\Debug\net6.0\Example.StaticFiles.AssemblyInfoInputs.cache
+C:\Users\cahas\OneDrive\Рабочий стол\3. Example.StaticFiles-master\Example.StaticFiles\obj\Debug\net6.0\Example.StaticFiles.AssemblyInfo.cs
+C:\Users\cahas\OneDrive\Рабочий стол\3. Example.StaticFiles-master\Example.StaticFiles\obj\Debug\net6.0\Example.StaticFiles.csproj.CoreCompileInputs.cache
+C:\Users\cahas\OneDrive\Рабочий стол\3. Example.StaticFiles-master\Example.StaticFiles\obj\Debug\net6.0\Example.StaticFiles.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\cahas\OneDrive\Рабочий стол\3. Example.StaticFiles-master\Example.StaticFiles\obj\Debug\net6.0\Example.StaticFiles.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cahas\OneDrive\Рабочий стол\3. Example.StaticFiles-master\Example.StaticFiles\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\cahas\OneDrive\Рабочий стол\3. Example.StaticFiles-master\Example.StaticFiles\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\cahas\OneDrive\Рабочий стол\3. Example.StaticFiles-master\Example.StaticFiles\obj\Debug\net6.0\scopedcss\bundle\Example.StaticFiles.styles.css
+C:\Users\cahas\OneDrive\Рабочий стол\3. Example.StaticFiles-master\Example.StaticFiles\obj\Debug\net6.0\Example.StaticFiles.csproj.CopyComplete
+C:\Users\cahas\OneDrive\Рабочий стол\3. Example.StaticFiles-master\Example.StaticFiles\obj\Debug\net6.0\Example.StaticFiles.dll
+C:\Users\cahas\OneDrive\Рабочий стол\3. Example.StaticFiles-master\Example.StaticFiles\obj\Debug\net6.0\refint\Example.StaticFiles.dll
+C:\Users\cahas\OneDrive\Рабочий стол\3. Example.StaticFiles-master\Example.StaticFiles\obj\Debug\net6.0\Example.StaticFiles.pdb
+C:\Users\cahas\OneDrive\Рабочий стол\3. Example.StaticFiles-master\Example.StaticFiles\obj\Debug\net6.0\Example.StaticFiles.genruntimeconfig.cache
+C:\Users\cahas\OneDrive\Рабочий стол\3. Example.StaticFiles-master\Example.StaticFiles\obj\Debug\net6.0\ref\Example.StaticFiles.dll

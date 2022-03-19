@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Новый заказ</title>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"> </script>
+    <script type="text/javascript" src="./script.js"> </script>
+</head>
+<body>
+<div>
+    <a href="/Index.html">Главная</a>
+    <a href="/Orders.html">Все заказы</a>
+    <a href="/NewOrder.html">Новый заказ</a>
+    <a href="/NewJob.html">Выполнить работу</a>
+</div>
+
+<!--Основной контент страницы-->
+
+<div style="width: 20rem">
+    <fieldset>
+        <legend>Формочка</legend>
+        <form>
+            <fieldset>
+                <legend>Название работы</legend>
+                <label>
+                    <input name="Customer"/>
+                </label>
+            </fieldset>
+            <br>
+            <fieldset>
+                <legend>Описание работы</legend>
+                <label>
+                    <input name="Work"/>
+                </label>
+            </fieldset>
+            <br>
+            <fieldset>
+                <legend>Стоимость</legend>
+                <label>
+                    <input name="Price"/>
+                </label>
+            </fieldset>
+            <br>
+            <fieldset>
+                <legend>Номер телефона</legend>
+                <label>
+                    <input name="Phone"/>
+                </label>
+            </fieldset>
+            <br>
+            
+            <button type="submit">Отправить формочку</button>
+        </form>
+    </fieldset>
+</div>
+<div >
+    <select style="width: 300px; height: 30px" >
+        <option>Пункт 1</option>
+        <option>Пункт 2</option>
+    </select>
+</div>
+
+
+</body>
+<script type="text/javascript">
+    async function load() {
+        let response = await GetData("http://localhost:5077");
+        $(".rowData").remove();
+        for(let i = 0; i < response.length; i++) {
+            $("select").append(makeRow(response[i], i));
+        }
+    }
+
+    function makeRow(item) {
+        var customer = $("<td>").text(item.customer);
+        var executor = $("<td>").text(item.executor);
+        var phone = $("<td>").text(item.phone);
+        var job = $("<td>").text(item.job);
+        var remove = $("<td>").append($("<button class='delete'>X</button>"));
+        return $("<tr class='rowData' index=" + item.id + "></option>>").append(customer).append(executor).append(phone).append(job).append(remove);
+    }
+    load();
+</script>
+</html>

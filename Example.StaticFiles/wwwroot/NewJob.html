@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"> </script>
+    <script type="text/javascript" src="./script.js"> </script>
+</head>
+<body>
+<div>
+    <a href="/Index.html">Главная</a>
+    <a href="/Orders.html">Все заказы</a>
+    <a href="/NewOrder.html">Новый заказ</a>
+    <a href="/NewJob.html">Выполнить работу</a>
+</div>
+
+
+
+
+<form method="post">
+    <p><select id="select" size="3" multiple name="work" style="height: 150px; width: 300px">
+    </select></p>
+    
+    
+    
+    <fieldset>
+        <legend>Price</legend>
+        <label>
+            <input name="Number"/>
+        </label>
+    </fieldset>
+
+    <fieldset>
+        <legend>Garancy</legend>
+        <label>
+            <input name="Number"/>
+        </label>
+    </fieldset>
+
+    <button type="submit">Отправить формочку</button>
+
+    <p><input type="submit" value="Отправить"></p>
+</form>
+</body>
+<script type="text/javascript">
+
+    async function load() {
+        let response = await GetData("http://localhost:5077");
+        $(".rowData").remove();
+        for(let i = 0; i < response.length; i++) {
+            $("select").append(makeRow(response[i], i));
+        }
+    }
+
+    function makeRow(item) {
+        return $("<option class='rowData' index=" + item.id + ">" + item.job + "</option>>");
+    }
+    
+    
+    async function handleSubmit(event) {
+        event.preventDefault();
+        await PostData("http://localhost:5077/", getFormJSON(event.target));
+    }
+
+    const form = document.querySelector('form');
+    form.addEventListener('submit', handleSubmit);
+
+    load();
+</script>
+</html>
